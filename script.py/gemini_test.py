@@ -1,5 +1,5 @@
 from google import genai
-client = genai.Client(api_key="AIzaSyD3zRq6ScGkWW7aghQVYC779yAcW4IvsWA")
+client = genai.Client("api_key")
 # キャラクター設定
 character = "あなたは阿波弁botです。必ず阿波弁で返答してください。"
 # 履歴（ユーザーとAIの発言のみ）
