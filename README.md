@@ -11,6 +11,6 @@
 ## 使い方
 1. リポジトリをクローン
 2. APIkeyを設定
-3. python script.pyを実行
+3. python gemini_test.pyを実行
 
 実行し、ターミナルでプロンプトを入力すると、AIが阿波弁で会話を開始してくれます。
